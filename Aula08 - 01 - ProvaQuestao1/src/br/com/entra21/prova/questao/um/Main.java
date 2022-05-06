@@ -155,26 +155,26 @@ public class Main {
 
 	public static void checkDay(byte month, byte day) {
 
-		final byte dayLimit29 = 29;
-		final byte dayLimit30 = 30;
-		final byte dayLimit31 = 31;
+		final byte DAY_LIMIT_29 = 29;
+		final byte DAY_LIMIT_30 = 30;
+		final byte DAY_LIMIT_31 = 31;
 
-		if (month == 2 && day > dayLimit29) {
+		if (month == 2 && day > DAY_LIMIT_29) {
 			System.out.println("Informe o dia novamnete, pois fevereiro tem no máximo 29 dias.");
 
-		} else if (month == 4 && day > dayLimit30) {
+		} else if (month == 4 && day > DAY_LIMIT_30) {
 			System.out.println("Informe o dia novamnete, pois Abril possui no máximo 30 dias.");
 
-		} else if (month == 6 && day > dayLimit30) {
+		} else if (month == 6 && day > DAY_LIMIT_30) {
 			System.out.println("Informe o dia novamnete, pois Junho possui no máximo 30 dias.");
 
-		} else if (month == 9 && day > dayLimit30) {
+		} else if (month == 9 && day > DAY_LIMIT_30) {
 			System.out.println("Informe o dia novamnete, pois Setembro possui no máximo 30 dias.");
 
-		} else if (month == 11 && day > dayLimit30) {
+		} else if (month == 11 && day > DAY_LIMIT_30) {
 			System.out.println("Informe o dia novamnete, pois Novembro possui no máximo 30 dias.");
 
-		} else if (day > dayLimit31) {
+		} else if (day > DAY_LIMIT_31) {
 			System.out.println("Informe um dia válido, pois um mês tem no máximo 31 dias.");
 
 		} else {
