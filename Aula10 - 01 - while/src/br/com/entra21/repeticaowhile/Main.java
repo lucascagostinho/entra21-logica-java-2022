@@ -77,29 +77,28 @@ public class Main {
 		System.out.println("Entendeu né");
 
 		byte dia;
-		
+
 		do {
 			System.out.println("Informe o dia do seu aniver");
 			dia = entrada.nextByte();
 		} while (dia > 31);
 		System.out.println("Espero que não tenha errado muito");
-		
+
 		byte mes;
 		byte contador = 0;
-		
+
 		do {
 			System.out.println("Informe o dia do seu aneversário ex(1 até 31)");
 			dia = entrada.nextByte();
-			
+
 			System.out.println("Informe o mes do seu aniversário ex(1 até 12)");
 			mes = entrada.nextByte();
 			contador++;
-			
-			
+
 		} while (dia < 1 || dia > 31 || mes < 1 || mes > 12);
-		
+
 		System.out.println("Finalmen te vc digitou certo " + dia + "/" + mes + --contador);
-			
+
 		main(null);
 	}
 
