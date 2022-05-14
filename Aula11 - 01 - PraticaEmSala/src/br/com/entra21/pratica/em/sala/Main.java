@@ -19,6 +19,7 @@ public class Main {
 			System.out.println("3 - Entre 20 pessoas, exiba a soma das idades");
 			System.out.println("4 - Entre 20 pessoas, quantas são de maior");
 			System.out.println("5 - Exibir a pessoa mais nova");
+			System.out.println("8 - Capture números ee só pare quando fpr digitado um valor negativo");
 			System.out.println("9 - Solicite a quantidade de notas e calcule a média ");
 			option = input.nextLine();
 
@@ -50,6 +51,11 @@ public class Main {
 
 			case "5":
 				exibirMaisNovo();
+
+				break;
+
+			case "8":
+				exerciseOito();
 
 				break;
 
@@ -177,7 +183,7 @@ public class Main {
 	}
 
 	public static void calcularMedia() {
-		//to do
+		// to do
 		int qtdNotas;
 		int somaNotas = 0;
 		int contador = 0;
@@ -200,6 +206,25 @@ public class Main {
 			somaNotas = somaNotas + qtdNotas;
 
 		} while (contador <= qtdNotas);
+
+	}
+
+	public static void exerciseOito() {
+
+		Scanner inPut = new Scanner(System.in);
+		int number, sum = 0; // se não inicializa um valor na váriavel ela fica com lixo da memória.
+
+		do {
+
+			System.out.println("What number do you want?");
+			number = inPut.nextInt();
+			if (number >= 0) {
+				sum = sum + number;
+			} // somente números positivos serão somados, ou números naturais.
+
+		} while (number >= 0); // enquanto o número for maior que zero repita
+
+		System.out.println("Your sum is: " + sum);
 
 	}
 
