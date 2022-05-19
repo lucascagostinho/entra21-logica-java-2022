@@ -1,6 +1,6 @@
-# Operadores Aritimpeticos
+# Operadores Aritiméticos
 
-> - Arithmetic operators perform fundamental math operations between two variables and return the result. If it is necessary to write larger or more complex operations, we can combine these operators and create expressions, which allow us to programmatically perform all kinds of calculations.
+> - Os operadores aritméticos realizam operações matemáticas fundamentais entre duas variáveis ​​e retornam o resultado. Se for necessário escrever operações maiores ou mais complexas, podemos combinar esses operadores e criar expressões, que nos permitem realizar programaticamente todos os tipos de cálculos.
 
 
  |Operador |Operação|

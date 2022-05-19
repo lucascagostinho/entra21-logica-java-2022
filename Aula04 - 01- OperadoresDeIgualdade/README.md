@@ -1,6 +1,15 @@
-# Aprendendo sobre operadores de igualde
+# Equality (==) operator
+ > - Equality operators check whether the value or result of the logical expression on the left is equal (ï¿½==ï¿½) or different (ï¿½!=ï¿½) to the one on the right, returning a Boolean value.
 
-## Tipos
+#### Types :
 
-- == para comparar igualdaded (= é para atribuição) (== para comparação)
-- != para comparar desigualdade (! é para negação da igualdade)
+> == to compare equality (= it's to assing, == it's to compare);
+
+```java
+ageA = 10;
+ageB = 10;
+		
+result = ageA == ageB;
+```
+
+### To access the PT-BR version of this guide, click [here](./README_PT-BR.md).

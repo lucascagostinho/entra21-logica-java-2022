@@ -1,15 +1,14 @@
-package br.com.entra21.operadores.relacionais;
+# Aprendendo sobre operadores relacionais
 
-public class Main {
+## Tipos
 
-	public static void main(String[] args) {
+> - (<) Para verificar se um valor é menor que outro
+> - (>) Para verificar se um valor é maior que outro
+> - (<=) Para verificar se um valor é menor ou igual
+> - (>=) Para verificar se um valor é maior ou igual
 
-		System.out.println("Operadores relacionais");
-
-		System.out.println("Menor < ");
-		System.out.println("Maior >");
-
-		byte idadeA, idadeB;
+```java
+byte idadeA, idadeB;
 		boolean resultado;
 
 		idadeA = 30;
@@ -26,6 +25,4 @@ public class Main {
 
 		resultado = idadeA >= idadeB;
 		System.out.println("Idade A maior ou igual que B" + resultado);
-	}
-
-}
+```
