@@ -38,3 +38,5 @@ doing
 |Class 04 - Exercise 01|[Equality Operators / Relational Operators / Logical Operators](./Aula04%20-%20ExercicioIgualdade/)
 |Class 04 - Exercise 02|[Equality Operators / Relational Operators / Logical Operators](./Aula04%20-%20ExercicioOperadoresLogicos/)      
 |Class 04 - Exercise 03|[Equality Operators / Relational Operators / Logical Operators](./Aula04%20-%20ExerciocioRelacional/)
+|Class 05 - Exercise 01|[Conditional IF / Conditional IF-ELSE / Conditional with Ternary Operator / Conditional ELSE IF](./Aula05%20-%20ExercicioCondicionais01/)
+|Class 05 - Exercise 01|[Conditional IF / Conditional IF-ELSE / Conditional with Ternary Operator / Conditional ELSE IF](./Aula05%20-%20ExercicioCondicionais02/)
