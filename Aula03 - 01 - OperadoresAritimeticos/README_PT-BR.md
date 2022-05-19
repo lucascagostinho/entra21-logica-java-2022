@@ -1,31 +1,29 @@
-# Arithmetic Operators
+# Operadores Aritimpeticos
 
 > - Arithmetic operators perform fundamental math operations between two variables and return the result. If it is necessary to write larger or more complex operations, we can combine these operators and create expressions, which allow us to programmatically perform all kinds of calculations.
 
 
- |Operator |Operation|
+ |Operador |Operação|
 | ------------- |:-------------:|
-| + | Addition     |
-| - | Subtraction   |
-| * | Multiplication     |
-| / | Division     |
-| % | Modulo Operation or Remainder after division|
+| + | Soma     |
+| - | Subtração   |
+| * | Multiplicação     |
+| / | Divisão     |
+| % | Restante da Dvisão|
 
-### Examples
+### Exemplos
 
 ```java    
-    // declare variables
+    // declarando as variáveis
     int a = 6, b = 3;
-    // addition operator
+    // Soma
     System.out.println("a + b = " + (a + b));
-    // subtraction operator
+    // Subtração
     System.out.println("a - b = " + (a - b));
-    // multiplication operator
+    // Multiplicação
     System.out.println("a * b = " + (a * b));
-    // division operator
+    // Divisão
     System.out.println("a / b = " + (a / b));
-    // modulo operator
+    // Módulo
     System.out.println("a % b = " + (a % b));
 ```
-
-### To access the PT-BR version of this guide, click [here](./README_PT-BR.md).
