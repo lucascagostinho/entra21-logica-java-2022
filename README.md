@@ -28,3 +28,13 @@
 |Class 14 - 01|[Multidimensional Arrays](./Aula14%20-%2001%20-%20Matrizes/)
 
 ## Exercises
+
+doing
+
+| CLASS | SUBJECT |
+|------|---------|
+|Class 03 - Exercise 01 |[Arithmetic Operators / Increment and Decrement](./Aula03%20-%20ExercicioPrecoCusto/)
+|Class 03 - Exercise 02 |[Arithmetic Operators / Increment and Decrement](./Aula03%20-%20ExerciocioAreaPerimetro/)
+|Class 04 - Exercise 01|[Equality Operators / Relational Operators / Logical Operators](./Aula04%20-%20ExercicioIgualdade/)
+|Class 04 - Exercise 02|[Equality Operators / Relational Operators / Logical Operators](./Aula04%20-%20ExercicioOperadoresLogicos/)      
+|Class 04 - Exercise 03|[Equality Operators / Relational Operators / Logical Operators](./Aula04%20-%20ExerciocioRelacional/)
