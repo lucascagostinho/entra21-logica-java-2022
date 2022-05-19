@@ -1,6 +1,6 @@
 # Entra21 - Full Stack Course
 
-![Gif Entra21](/entra21.gif)
+![Gif Entra21](/Gifs/entra21.gif)
 
 ## Practical content carried out in the classroom during the Entra21 project
 
