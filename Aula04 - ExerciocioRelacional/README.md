@@ -1,7 +1,9 @@
-- Faça um programa que informe se o 1º numero é maior que o 2º numero
+# Exercise 4.2 - Comparing two number's values using relational operator
 
-- Faça um programa que informe se o 1º numero é maior ou igual que o 2º numero
+> - Write a program that informs if the 1st number is bigger than the 2nd number;
 
-- Faça um programa que informe se o 1º numero é menor que o 2º numero
-
-- Faça um programa que informe se o 1º numero é menor ou igual que o 2º numero
+> - rite a program that informs if the 1st number is greater than or equal to the 2nd number;
+ 
+> - rite a program that informs if the 1st number is smaller than the 2nd number;
+ 
+> - rite a program that informs if the 1st number is smaller than or equal  to the 2nd number.

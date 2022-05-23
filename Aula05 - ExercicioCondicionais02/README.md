@@ -1,1 +1,3 @@
-# Capturar ano de nascimento e informar se já tem idade para votar
+# Exercise 5.2 - Can you vote?
+
+> - Insert the birth year to know if you can vote.

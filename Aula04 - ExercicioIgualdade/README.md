@@ -1,5 +1,5 @@
-# Exercício
+# Exercise 4.1 - Comparing two number's values
 
-- Faça um programa que compare 2 números e informe se o 1º é igual ao 2º numero
+> - Write a program to compare 2 numbers and inform if the 1st is equal to the 2nd number.
 
-- Faça um programa que compare 2 números e informe se o 1º é diferente do 2º numero
+> - Write a program to compare 2 numbers and inform if the 1st is different from the 2nd number.

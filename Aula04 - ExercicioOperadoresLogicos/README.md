@@ -1,3 +1,6 @@
-- Faça um programa que capture 3 informações o nome,  idade e altura. Deve ser informado se o usuário é maior ou igual que 170cm E tem é maior de idade (utilizar o &&)
+# Exercise 4.3 - Logical Operators ( && , || )
 
-- Faça um programa que capture 3 informações o nome,  idade e altura. Deve ser informado se o usuário é maior ou igual que 170cm OU tem é maior de idade (utilizar o ||)
+> - Write a program that requests 3 informations: name, age and height. It must
+be informed if the user is taller than or equal to 170cm AND is over eighteen (use the && operator).
+
+> - It must be informed if the user is taller than or equal to 170cm OR is over eighteen (use the || operator).
