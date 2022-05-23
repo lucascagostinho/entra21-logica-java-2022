@@ -4,6 +4,8 @@
 
 ## Practical content carried out in the classroom during the Entra21 project
 
+## Logic programming - Java
+
 | CLASS | SUBJECT |
 |------|---------|
 |Class 01 - 01|[Agile and Scrum Methodologies](./Aula02%20-%2001%20-%20Variaveis/) 
