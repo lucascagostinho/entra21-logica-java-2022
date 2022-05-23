@@ -42,5 +42,3 @@ int add = 2;
 add--; // add = 1
 int number = add--; // add = 0, number= 1
 ```
-
-### To access the PT-BR version of this guide, click [here](./README_PT-BR.md).

@@ -27,5 +27,3 @@
     // modulo operator
     System.out.println("a % b = " + (a % b));
 ```
-
-### To access the PT-BR version of this guide, click [here](./README_PT-BR.md).

@@ -20,9 +20,9 @@ switch (expression){
 }
 ```
 
-- The expression can be of type byte, short, int char, or an enumeration. 
-- Beginning with JDK7, expression can also be of type String.
-- Duplicate case values are not allowed.
-- The default statement is optional.
-- The break statement is used inside the switch to terminate a statement sequence.
-- The break statement is optional. If omitted, execution will continue on into the next case.
+> - The expression can be of type byte, short, int char, or an enumeration. 
+> - Beginning with JDK7, expression can also be of type String.
+> - Duplicate case values are not allowed.
+> - The default statement is optional.
+> - The break statement is used inside the switch to terminate a statement sequence.
+> - The break statement is optional. If omitted, execution will continue on into the next case.

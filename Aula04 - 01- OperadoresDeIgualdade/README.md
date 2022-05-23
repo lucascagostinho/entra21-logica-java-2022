@@ -11,5 +11,3 @@ ageB = 10;
 		
 result = ageA == ageB;
 ```
-
-### To access the PT-BR version of this guide, click [here](./README_PT-BR.md).

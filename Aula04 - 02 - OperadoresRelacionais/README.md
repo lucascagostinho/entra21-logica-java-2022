@@ -26,5 +26,3 @@ byte idadeA, idadeB;
 		resultado = idadeA >= idadeB;
 		System.out.println("Idade A maior ou igual que B" + resultado);
 ```
-
-### To access the PT-BR version of this guide, click [here](./README_PT-BR.md).

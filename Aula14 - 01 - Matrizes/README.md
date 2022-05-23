@@ -1,6 +1,6 @@
 # Multidimensional Arrays
 
-> Multidimensional arrays are arrays of arrays with each element of the array holding the reference of other arrays. These are also known as Jagged Arrays. A multidimensional array is created by appending one set of square brackets ([]) per dimension.
+> - Multidimensional arrays are arrays of arrays with each element of the array holding the reference of other arrays. These are also known as Jagged Arrays. A multidimensional array is created by appending one set of square brackets ([]) per dimension.
 
 <br>
 
@@ -13,7 +13,7 @@ int[][][] intArray = new int[10][20][10]; //a 3D array
 
 - Passing Arrays to Methods:
 
-Like variables, we can also pass arrays to methods. For example, the below program passes the array to method sum to calculate the sum of the array’s values.
+> - Like variables, we can also pass arrays to methods. For example, the below program passes the array to method sum to calculate the sum of the array’s values.
 
 ```java
 // Java program to demonstrate
@@ -57,8 +57,6 @@ sum of array values : 15
 <br>  
 
 > The members of an array type are all of the following: 
-- The public final field length, which contains the number of components of the array. Length may be positive or zero;
-- All the members inherited from class Object; the only method of Object that is not inherited is its clone method;
-- The public method clone(), which overrides the clone method in class Object and throws no checked exceptions. 
-
-### To access the PT-BR version of this guide, click [here](./README_PT-BR.md).
+> - The public final field length, which contains the number of components of the array. Length may be positive or zero;
+> - All the members inherited from class Object; the only method of Object that is not inherited is its clone method;
+> - The public method clone(), which overrides the clone method in class Object and throws no checked exceptions. 

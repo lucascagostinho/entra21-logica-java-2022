@@ -21,5 +21,3 @@
 
 ## Resources
 > - The concern with saving resources must be applied even in the correct creation of the variables.
-
-### To access the PT-BR version of this guide, click [here](./README_PT-BR.md).
